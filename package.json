@@ -1,0 +1,10 @@
+{
+  "name": "sct-wd-4-todo-app",
+  "private": true,
+  "scripts": {
+    "start": "http-server . -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
